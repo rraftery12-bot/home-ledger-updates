@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "notes": "Adds the in-app update system and keeps Home Ledger data separate from program updates.",
+  "assets": {
+    "windows": {
+      "url": "https://raw.githubusercontent.com/rraftery12-bot/home-ledger-updates/main/Home%20Ledger%20Tester%200.2.0%20-%20Windows.zip",
+      "sha256": "59e825875bbe437fc8817a52d915e1c3774799bee70d18860a02be8177c65ad8"
+    },
+    "macos": {
+      "url": "https://raw.githubusercontent.com/rraftery12-bot/home-ledger-updates/main/Home%20Ledger%20Tester%200.2.0%20-%20macOS%20with%20Installer.zip",
+      "sha256": "80a2a3539a1a8f53081ffd132137b3f089c1a4aef612ec9f7c58e24f23f06cfe"
+    }
+  }
+}
+
