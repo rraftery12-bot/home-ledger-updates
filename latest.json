@@ -1,14 +1,14 @@
 {
-  "version": "0.2.4",
-  "notes": "Improves duplicate detection and pending transaction handling, adds Possible Duplicates review, complete multi-budget backups, safer profile switching, stronger display security, removes the retired CSV import, and polishes the interface.",
+  "version": "0.2.5",
+  "notes": "Keeps both interfaces aligned, improves Review Inbox, adds popup-based transaction entry, atomic internal transfers, and multi-line transaction splitting.",
   "assets": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/rraftery12-bot/home-ledger-updates/main/Home%20Ledger%20Tester%200.2.4%20-%20Windows.zip",
-      "sha256": "14283d4b3081281ece3b82a56b3375a552787283a107c8e25d926becd035cae0"
+      "url": "https://raw.githubusercontent.com/rraftery12-bot/home-ledger-updates/main/Home%20Ledger%20Tester%200.2.5%20-%20Windows.zip",
+      "sha256": "360f99134579294c955002bf624b98a3071db1cd5b23d4b73d9c51a00974ce84"
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/rraftery12-bot/home-ledger-updates/main/Home%20Ledger%20Tester%200.2.4%20-%20macOS%20with%20Installer.zip",
-      "sha256": "520e268b7660355d700f2a5995b7cfb4aa3c1be1409330c1cdf157cb3039b337"
+      "url": "https://raw.githubusercontent.com/rraftery12-bot/home-ledger-updates/main/Home%20Ledger%20Tester%200.2.5%20-%20macOS%20with%20Installer.zip",
+      "sha256": "588e8075a87d6c6baad63d907f827c250177600e3af20bdce4c22e06b66f5bc6"
     }
   }
 }
