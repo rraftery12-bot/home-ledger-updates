@@ -1,14 +1,14 @@
 {
-  "version": "0.2.10",
-  "notes": "Adds reusable transfer templates, improves Review Inbox category selection, prevents duplicate category names, and securely sends user-confirmed duplicate diagnostics to Home Ledger support.",
+  "version": "0.2.11",
+  "notes": "Adds Review Inbox splitting and a consistent full-width transaction editor with Save, Split, and confirmed Delete controls in Current Budget, Past Budgets, and Running Funds.",
   "assets": {
     "windows": {
-      "url": "https://raw.githubusercontent.com/rraftery12-bot/home-ledger-updates/main/Home%20Ledger%20Tester%200.2.10%20-%20Windows.zip",
-      "sha256": "09ab0d9a17efebde5c9a223b1b1aeeb9a15d918617063b2fa45429582af44253"
+      "url": "https://raw.githubusercontent.com/rraftery12-bot/home-ledger-updates/main/Home%20Ledger%20Tester%200.2.11%20-%20Windows.zip",
+      "sha256": "1b4bdd2ee88381c1a16daac37e2c41eea73513a1f2750cd836857cd73452baef"
     },
     "macos": {
-      "url": "https://raw.githubusercontent.com/rraftery12-bot/home-ledger-updates/main/Home%20Ledger%20Tester%200.2.10%20-%20macOS%20with%20Installer.zip",
-      "sha256": "e563af2d07b4e2d9aeaa095e350721e8e46bc175e2d80f5cf7578333a59b7e31"
+      "url": "https://raw.githubusercontent.com/rraftery12-bot/home-ledger-updates/main/Home%20Ledger%20Tester%200.2.11%20-%20macOS%20with%20Installer.zip",
+      "sha256": "c1b50529e629bc8b79b3f728f8a4e5ea5dc23adaac4cc9158fb7f8ac662eb50b"
     }
   }
 }
